@@ -1,7 +1,7 @@
 {
   "name": "shortener-msfcc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Shortener Microservice - freeCodeCamp.org Backend Development Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
